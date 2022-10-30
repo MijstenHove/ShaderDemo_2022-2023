@@ -54,6 +54,26 @@ Material:
         m_Texture: {fileID: 2800000, guid: c562a42f660219543b23998890ac4067, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _tecture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _textureAlbedo:
+        m_Texture: {fileID: 2800000, guid: 92e311c038f9a3f4daba2161d12942d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _textureEmisive:
+        m_Texture: {fileID: 2800000, guid: 2c9924f9b12136d4480f9660d6e77486, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _textureNormal:
+        m_Texture: {fileID: 2800000, guid: c562a42f660219543b23998890ac4067, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _textureflowmap:
+        m_Texture: {fileID: 2800000, guid: b3c2094fb795bf3418663ecb5aa321b8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -73,10 +93,13 @@ Material:
     - _QueueOffset: 0
     - _hide_seam: 0.5
     - _lerp2tex: 0.49
+    - _speedflow: 2
     - _speef: 2.64
     - _time: 0.5
-    - _timespeed: 0.5
+    - _timespeed: -0.1
     m_Colors:
+    - _emisivecolor: {r: 4, g: 0.2509804, b: 0, a: 0}
     - _glowcolor: {r: 4, g: 0.2509804, b: 0, a: 0}
     - _tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _tilingOfTexture: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
