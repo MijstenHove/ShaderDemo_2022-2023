@@ -60,5 +60,5 @@ Material:
     - _cutoff: -0.81
     - _softness: 4.38
     m_Colors:
-    - _ColorPortal: {r: 0, g: 0.9092319, b: 1, a: 0}
+    - _ColorPortal: {r: 0, g: 3.6392157, b: 4, a: 0}
   m_BuildTextureStacks: []
